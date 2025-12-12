@@ -96,7 +96,7 @@ Production-ready trading strategies collection.
 ```typescript
 const result = await engine.run(strategy, {
   initialCapital: 10000,
-  startDate: new Date('2024-01-01'),
+  startDate: new Date('2025-12-12'),
 });
 ```
 
